@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... everything. ya everything
 - 🌱 I’m currently learning ... CSE and DSA
 - 💞️ I’m looking to collaborate on ... anything interesting
-- 📫 How to reach me ... https://twitter.com/maheswar2003 or maheswar2003@yahoo.com
+- 📫 How to reach me ... X - https://twitter.com/maheswar2003 or Mail - maheswar2003@yahoo.com
 
 <!---
 maheswar2003/maheswar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
