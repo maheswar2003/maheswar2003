@@ -4,7 +4,7 @@
 - 👀 I’m interested in everything. ya everything
 - 🌱 I’m currently learning CSE and DSA as primary and else
 - 💞️ I’m looking to collaborate on anything interesting and worth
-- 📫 How to reach me? simple -> (https://t.me/maheswar2003) or Mail - maheswar2003@yahoo.com
+- 📫 How to reach me? simple -> Telegram - https://t.me/maheswar2003 or Mail - maheswar2003@yahoo.com
 - ⚡ Fun fact: Everyone will die one day (you are included)! GO LIVE <3
 
 <!---
