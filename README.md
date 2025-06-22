@@ -9,8 +9,10 @@
   <!-- Badges -->
   [![GitHub Followers](https://img.shields.io/github/followers/maheswar2003?label=Follow&style=social)](https://github.com/maheswar2003)
   [![Visitors](https://komarev.com/ghpvc/?username=maheswar2003&label=Profile+Views&color=blueviolet&style=flat)](https://github.com/maheswar2003)  
+  
   <!-- Quote -->
   <blockquote>⚡ Live every day like it's your last! ❤️</blockquote>
+
 </div>
 
 ---
@@ -66,5 +68,3 @@
 
 ### 🌐 Connect With Me
 📧mail maheswar2003sahoo@gmail.com
-<!-- Snake Animation -->
-![Snake animation](https://github.com/maheswar2003/maheswar2003/blob/output/github-contribution-grid-snake.svg) 
