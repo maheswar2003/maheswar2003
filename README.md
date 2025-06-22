@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- Header Banner -->
-  ![Banner](https://github.com/maheswar2003/maheswar2003/assets/placeholder/banner.gif) <!-- Replace with your actual banner URL -->
-  
   <!-- Animated Welcome -->
   <h1>Namaste<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
@@ -68,3 +65,4 @@
 
 ### 🌐 Connect With Me
 📧mail maheswar2003sahoo@gmail.com
+
