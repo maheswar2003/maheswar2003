@@ -62,9 +62,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maheswar2003&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswar2003&layout=compact&theme=radical&hide_border=true" />
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheswar2003&theme=radical&hide_border=true" />
-  
 </div>
 
 ---
