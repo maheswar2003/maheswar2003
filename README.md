@@ -8,9 +8,7 @@
   
   <!-- Badges -->
   [![GitHub Followers](https://img.shields.io/github/followers/maheswar2003?label=Follow&style=social)](https://github.com/maheswar2003)
-  [![Visitors](https://komarev.com/ghpvc/?username=maheswar2003&label=Profile+Views&color=blueviolet&style=flat)](https://github.com/maheswar2003)
-  [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=yahoo&logoColor=white&link=mailto:maheswar2003@yahoo.com)](mailto:maheswar2003@yahoo.com)
-  
+  [![Visitors](https://komarev.com/ghpvc/?username=maheswar2003&label=Profile+Views&color=blueviolet&style=flat)](https://github.com/maheswar2003)  
   <!-- Quote -->
   <blockquote>⚡ Live every day like it's your last! ❤️</blockquote>
 </div>
@@ -67,9 +65,6 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswar2003)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maheswar2003)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/maheswar2003)
-
+📧mail maheswar2003sahoo@gmail.com
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/maheswar2003/maheswar2003/blob/output/github-contribution-grid-snake.svg) 
